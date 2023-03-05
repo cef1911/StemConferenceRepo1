@@ -1,0 +1,8 @@
+pandas
+streamlit
+altair
+numpy
+plotly
+vega-datasets
+figure_factory 
+time
