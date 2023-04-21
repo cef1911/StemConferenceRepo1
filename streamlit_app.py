@@ -17,14 +17,14 @@ DataFrames which will be the team info.
 4 teams of 5 Kids
 More info to be added consistently
 
-# Thanks Everyone for coming and participating
+# Hi everyone
 
 
 """
 
-st.balloons()
+# st.balloons()
 
-st.snow()
+# st.snow()
 
 df2 = pd.DataFrame(
     [
