@@ -18,7 +18,13 @@ DataFrames which will be the team info.
 More info to be added consistently
 
 # Hello Stacey and Mike and Affiz
+
+
 """
+
+st.balloons()
+
+st.snow()
 
 df2 = pd.DataFrame(
     [
