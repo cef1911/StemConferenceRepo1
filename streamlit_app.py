@@ -22,9 +22,9 @@ More info to be added consistently
 
 """
 
-#st.balloons()
+st.balloons()
 
-#st.snow()
+st.snow()
 
 df2 = pd.DataFrame(
     [
